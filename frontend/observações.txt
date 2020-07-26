@@ -1,0 +1,5 @@
+cors -- para gerenciar os acessos ao backend
+data no console está vindo null
+
+21/07/2020T05:44:44
+parei em 58:01/Dasboard
