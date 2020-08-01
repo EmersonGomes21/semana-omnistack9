@@ -41,7 +41,7 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) para mais detalhes.
 
 ---
 
